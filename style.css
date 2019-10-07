@@ -3,6 +3,9 @@
 body{
     background-color: #494949;
 }
+    a:hover{
+        text-decoration: none;
+    }
     .card-ministyle{
         max-width: 65em;
         margin: auto;
